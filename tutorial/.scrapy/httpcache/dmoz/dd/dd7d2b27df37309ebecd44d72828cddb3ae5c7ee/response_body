@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:/admin/
+Disallow:/b/32/32704/
+Disallow:/b/35/35054/

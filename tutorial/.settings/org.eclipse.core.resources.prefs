@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//tutorial/items.py=utf-8
+encoding//tutorial/middlewares.py=utf-8
+encoding//tutorial/mysqlpipelines/setting.py=UTF-8
+encoding//tutorial/mysqlpipelines/sql.py=utf-8
+encoding//tutorial/pipelines.py=utf-8
+encoding//tutorial/settings.py=utf-8
+encoding//tutorial/spiders/dmoz_spider.py=utf8
